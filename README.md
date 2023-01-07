@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 -->
 
 # 허혜민
-## _HyeMin Heo_
+## <h1>_HyeMin Heo_</h1>
 
 ## 
 <div align="center"> 
 <div>  
-  <h2> 💬SNS <h2> 
+  <h2> 💬SNS </h2> 
   <a href="mailto:simhae5159@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=simhae5159@gmail.com"/></a>
 </div>
 
 ## 
 <div align="left">
 <div>
-  <h2> 🌱Skills <h2> 
+  <h2> 🌱Skills </h2> 
 </div>
 
-## <h2> 🔭Tools <h2>
+## <h2> 🔭Tools </h2>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
